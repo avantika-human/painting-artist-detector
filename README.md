@@ -3,7 +3,7 @@
 A deep learning model that identifies the artist behind a painting. Upload any painting and the model predicts which of 10 iconic artists painted it — along with confidence scores.
 
 ## Demo
-> Coming soon on Hugging Face Spaces 🤗
+> 🤗 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Avantikaa/painting-artist-detector)
 
 ## Artists
 The model can identify paintings by:
